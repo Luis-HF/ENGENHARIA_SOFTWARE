@@ -71,3 +71,5 @@ O trabalho busca demonstrar:
 - entendimento conceitual dos padrões de projeto  
 - capacidade de aplicar cada padrão em contextos específicos  
 - organização modular utilizando branches distintas  
+
+fonte: https://refactoring.guru/pt-br/design-patterns/catalog
