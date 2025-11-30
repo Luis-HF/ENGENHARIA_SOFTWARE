@@ -73,3 +73,4 @@ O trabalho busca demonstrar:
 - organização modular utilizando branches distintas  
 
 fonte: https://refactoring.guru/pt-br/design-patterns/catalog
+foi utilizado a ferramenta ChatGPT e Gemini para a criação parcial dos readme e para revisão dos códigos.
